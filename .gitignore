@@ -1,0 +1,15 @@
+# Go
+backend/bin/
+*.exe
+
+# Editors / OS
+.vscode/
+.idea/
+.DS_Store
+
+# Coverage output
+backend/coverage.out
+backend/coverage.html
+
+# Personal Claude Code settings (skills and launch.json are shared)
+.claude/settings.local.json
